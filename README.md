@@ -1,4 +1,4 @@
-# hello-world
-Halløj klasse!
-Dette er en ændring af den første tekst i vores fælles repository.
-
+# Halløj verden :)
+## Nu bliver teksten formateret.
+Vil i være venlige at skrive et ordentligt oplæg om design, inden kl. 24:00.
+MVH Eskild
