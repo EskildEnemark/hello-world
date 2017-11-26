@@ -1,2 +1,4 @@
 # hello-world
-Mit første GitHub repositery
+Halløj klasse!
+Dette er en ændring af den første tekst i vores fælles repository.
+
